@@ -22,3 +22,6 @@ host Foo
     hostname 192.168.0.1
     user Bar
 ```
+
+If no machine is entered, the script will automatically look for the file `sysadmin.yml` in the same directory. See the existing yaml database for an example.
+
