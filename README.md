@@ -1,5 +1,7 @@
 A repo that contains python files for managing a cluster of machines.
 
+To view which machines are available to use, see the issues page (or the repo's [waffle board](https://waffle.io/JasYoung314/CardiffMathsClusterAdmin))
+
 The sysadmin.py file uses [docopt](http://docopt.org/) and should be run with the two following patterns:
 
 ```python
