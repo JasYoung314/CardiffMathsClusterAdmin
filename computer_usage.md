@@ -9,3 +9,7 @@ Please get in touch with me via the appropriate issue if you wish to be given ac
 ## Length of use
 
 ## Contact Information
+
+## Additional Information
+- [ ] Parallel processing
+- [ ] Large files
